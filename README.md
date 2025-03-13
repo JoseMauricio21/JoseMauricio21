@@ -24,22 +24,9 @@
 💡 Proyectos de código abierto relacionados con **desarrollo web, IA y automatización**  
 🤝 Equipos que busquen **innovación y tecnología**  
 
----
-
-## 📫 ¡Contáctame!  
-📧 **Correo:** [Tu email aquí]  
-🔗 **LinkedIn:** [Tu LinkedIn aquí]  
-💻 **Portafolio:** [Tu sitio web aquí]  
-
----
-
-## 😄 Pronombres  
-Él / He / Him  
-
----
 
 ## ⚡ Fun Fact  
-🎸 ¡Amo la música y toco la guitarra en mi tiempo libre! Además, me encanta el cine de terror extremo. 🎬👹  
+🎸 ¡Amo la música y toco la guitarra en mi tiempo libre! Además, me encanta. 🎬👹  
 
 ---
 
