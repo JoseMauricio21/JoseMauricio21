@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @JoseMauricio21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 ¡Hola, soy @JoseMauricio21! 🚀
 
-<!---
-JoseMauricio21/JoseMauricio21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Ingeniero en Sistemas Computacionales | Desarrollador | Apasionado por la tecnología  
+
+---
+
+## 👀 Intereses  
+🔹 Desarrollo de software y aplicaciones  
+🔹 Inteligencia Artificial y Machine Learning 🤖  
+🔹 Desarrollo web con **React y JavaScript** 🌐  
+🔹 Bases de datos y gestión de información 🗄️  
+🔹 Programación de hardware con **Arduino**  
+
+---
+
+## 🌱 Actualmente aprendiendo...  
+📌 **React.js** para mejorar mis habilidades en desarrollo web ⚛️  
+📌 **Bases de datos avanzadas** para optimizar consultas y rendimiento 🗃️  
+📌 **C# y Unity** para el desarrollo de videojuegos 🎮  
+
+---
+
+## 💞️ Busco colaborar en...  
+💡 Proyectos de código abierto relacionados con **desarrollo web, IA y automatización**  
+🤝 Equipos que busquen **innovación y tecnología**  
+
+---
+
+## 📫 ¡Contáctame!  
+📧 **Correo:** [Tu email aquí]  
+🔗 **LinkedIn:** [Tu LinkedIn aquí]  
+💻 **Portafolio:** [Tu sitio web aquí]  
+
+---
+
+## 😄 Pronombres  
+Él / He / Him  
+
+---
+
+## ⚡ Fun Fact  
+🎸 ¡Amo la música y toco la guitarra en mi tiempo libre! Además, me encanta el cine de terror extremo. 🎬👹  
+
+---
+
+✨ **Siempre buscando aprender y mejorar cada día. ¡Conectemos y creemos algo increíble juntos!** 🚀  
