@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy @JoseMauricio21! 🚀
 
-### 💻 Ingeniero en Sistemas Computacionales | Desarrollador | Apasionado por la tecnología  
+💻 Estudiante de Ingenieria en Sistemas Computacionales | Desarrollador
 
 ---
 
