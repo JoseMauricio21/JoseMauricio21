@@ -94,7 +94,7 @@
 📌 Aprender **C# para desarrollo en Unity** 🎮  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="120" height="120">
 </p>
 
 **Herramientas Favoritas**:
