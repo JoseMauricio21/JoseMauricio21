@@ -81,8 +81,11 @@
 ## Otros Lenguajes y Herramientas 🛠️
 - **HTML & CSS 🎨** → Desarrollo web  
 - **Bash 🖥️** → Uso en Linux, automatización de tareas  
-- **Arduino 🤖** → Programación de microcontroladores  
+- **Arduino 🤖** → Programación de microcontroladores
 
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTkp4Qlw5ml081tZVNzfyMqLp8pvFQ4hhflET0BJITWEMgiqgDtfqUJjGiBH0dPuipdyuED4m7_1v1UpqC31rBYirxizTRz1xFBAjZH567vZH3P6hmIiCuZwGZ6JqQKoejXGrsno14Dc/s1600/zltVwkk.gif" alt="Descripción de la imagen" style="width: 70%;" />
+</p>
 
 
 ## Objetivos de Aprendizaje 📚
@@ -125,9 +128,6 @@
 
 [![OpenCore](https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png)](https://github.com/acidanthera/OpenCorePkg)
 
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTkp4Qlw5ml081tZVNzfyMqLp8pvFQ4hhflET0BJITWEMgiqgDtfqUJjGiBH0dPuipdyuED4m7_1v1UpqC31rBYirxizTRz1xFBAjZH567vZH3P6hmIiCuZwGZ6JqQKoejXGrsno14Dc/s1600/zltVwkk.gif" alt="Descripción de la imagen" style="width: 120%;" />
-</p>
 
 <p align="left">
   "El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona."  
