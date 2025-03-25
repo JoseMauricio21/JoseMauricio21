@@ -2,7 +2,7 @@
 
 💻 Estudiante de Ingenieria en Sistemas Computacionales | Desarrollador
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTkp4Qlw5ml081tZVNzfyMqLp8pvFQ4hhflET0BJITWEMgiqgDtfqUJjGiBH0dPuipdyuED4m7_1v1UpqC31rBYirxizTRz1xFBAjZH567vZH3P6hmIiCuZwGZ6JqQKoejXGrsno14Dc/s1600/zltVwkk.gif" alt="Descripción de la imagen" style="width: 70%;" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTkp4Qlw5ml081tZVNzfyMqLp8pvFQ4hhflET0BJITWEMgiqgDtfqUJjGiBH0dPuipdyuED4m7_1v1UpqC31rBYirxizTRz1xFBAjZH567vZH3P6hmIiCuZwGZ6JqQKoejXGrsno14Dc/s1600/zltVwkk.gif" alt="Descripción de la imagen" style="width: 120%;" />
 </p>
 
 
