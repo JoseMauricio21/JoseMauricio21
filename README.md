@@ -18,10 +18,7 @@
   <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/banner.png" alt="Banner" style="width: 100%; max-width: 1200px;">
 </p>
 
-<p align="center">
-  "El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona."  
-  <br>— Steve Jobs, 2010
-</p>
+
 
 
 ## 🌱 Actualmente aprendiendo...  
