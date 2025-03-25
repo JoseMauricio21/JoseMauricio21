@@ -121,6 +121,7 @@
 🎸 ¡Amo la música y toco la guitarra en mi tiempo libre! Además, me encanta. 🎬👹  
 
 ---
+## Proyectos..
 
 [![OpenCore](https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png)](https://github.com/acidanthera/OpenCorePkg)
 
