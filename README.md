@@ -18,6 +18,12 @@
   <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/banner.png" alt="Banner" style="width: 100%; max-width: 1200px;">
 </p>
 
+<p align="center">
+  "El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona."  
+  <br>— Steve Jobs, 2010
+</p>
+
+
 ## 🌱 Actualmente aprendiendo...  
 📌 **React.js** para mejorar mis habilidades en desarrollo web ⚛️  
 📌 **Bases de datos avanzadas** para optimizar consultas y rendimiento 🗃️  
@@ -121,7 +127,5 @@
 
 [![OpenCore](https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png)](https://github.com/acidanthera/OpenCorePkg)
 
-"El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona."  
-— Steve Jobs, 2010
 
 ✨ **Siempre buscando aprender y mejorar cada día. ¡Conectemos y creemos algo increíble juntos!** 🚀  
