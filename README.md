@@ -2,6 +2,11 @@
 
 💻 Estudiante de Ingenieria en Sistemas Computacionales | Desarrollador
 
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/proxy/CMxHFpc12SKiERPNxZ9zDiokURoOnEzS14svPgD29jQxHsf-N0jWE3hYqh1K53YokiiF0w66N1I5ebfvWHlbqx4btailDnj8qtUaug" width="75%">
+</p>
+
+
 ### ✅ Acerca de Mi... ### 
 
 <p align="center">
