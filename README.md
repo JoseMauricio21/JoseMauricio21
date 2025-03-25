@@ -11,7 +11,7 @@
 <h2 align="center">José Mauricio Manjarrez Reyes</h2>
 
 <p align="center">
-  Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jocotitlán. Me apasiona la programación, la música y la tecnología. Actualmente estoy desarrollando proyectos en diversas áreas, incluyendo desarrollo web, videojuegos, y herramientas de software.
+  Me presento, Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jocotitlán. Me apasiona la programación, la música y la tecnología. Actualmente estoy desarrollando proyectos en diversas áreas, incluyendo desarrollo web, videojuegos, y herramientas de software.
 </p>
 
 <p align="center">
