@@ -18,6 +18,11 @@
   <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/banner.png" alt="Banner" style="width: 100%; max-width: 1200px;">
 </p>
 
+## 🌱 Actualmente aprendiendo...  
+📌 **React.js** para mejorar mis habilidades en desarrollo web ⚛️  
+📌 **Bases de datos avanzadas** para optimizar consultas y rendimiento 🗃️  
+📌 **C# y Unity** para el desarrollo de videojuegos 🎮  
+
 
 ### Informacion sobre mis Lenguajes de Programación 🚀
 
@@ -101,13 +106,6 @@
 🔹 Desarrollo web con **React y JavaScript** 🌐  
 🔹 Bases de datos y gestión de información 🗄️  
 🔹 Programación de hardware con **Arduino**  
-
----
-
-## 🌱 Actualmente aprendiendo...  
-📌 **React.js** para mejorar mis habilidades en desarrollo web ⚛️  
-📌 **Bases de datos avanzadas** para optimizar consultas y rendimiento 🗃️  
-📌 **C# y Unity** para el desarrollo de videojuegos 🎮  
 
 ---
 
