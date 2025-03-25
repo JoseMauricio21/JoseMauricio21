@@ -119,4 +119,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png">
+</p>
+
+
 ✨ **Siempre buscando aprender y mejorar cada día. ¡Conectemos y creemos algo increíble juntos!** 🚀  
