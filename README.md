@@ -121,4 +121,7 @@
 
 [![OpenCore](https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png)](https://github.com/acidanthera/OpenCorePkg)
 
+"El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona."  
+— Steve Jobs, 2010
+
 ✨ **Siempre buscando aprender y mejorar cada día. ¡Conectemos y creemos algo increíble juntos!** 🚀  
