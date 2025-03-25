@@ -120,7 +120,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png">
+  <img src="https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png" width="200">
 </p>
 
 
